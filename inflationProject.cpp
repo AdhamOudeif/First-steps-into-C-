@@ -1,9 +1,5 @@
 //============================================================================
-// Name        : inflationProject.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+ //Project that calculates the price incease of an item in a peroid of time due to inflation
 //============================================================================
 
 #include <iostream>
