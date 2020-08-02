@@ -1,4 +1,5 @@
-/*Write a program that converts from 24-hour notation to 12-hour notation. For
+/*
+Write a program that converts from 24-hour notation to 12-hour notation. For
 example, it should convert 14:25 to 2:25 P.M. The input is given as two integers.
 There should be at least three functions: one for input, one to do the conversion,
 and one for output. Record the A.M./P.M. information as a value of
@@ -6,7 +7,8 @@ type char, ’A’ for A.M. and ’P’ for P.M. Thus, the function for doing th
 will have a call-by-reference formal parameter of type char to record
 whether it is A.M. or P.M. (The function will have other parameters as well.)
 Include a loop that lets the user repeat this computation for new input values
-again and again until the user says he or she wants to end the program.*/
+again and again until the user says he or she wants to end the program.
+*/
 
 #include <iostream>
 
