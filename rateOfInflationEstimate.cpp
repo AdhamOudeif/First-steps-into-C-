@@ -1,9 +1,5 @@
 //============================================================================
-// Name        : rateOfInflationEstimate.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// a project that estimates the rate of inflation 
 //============================================================================
 
 #include <iostream>
