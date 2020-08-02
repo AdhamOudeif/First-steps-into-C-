@@ -1,9 +1,5 @@
 //============================================================================
-// Name        : loanPayment.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// A program that calculates you monthly payment to pay off a loan
 //============================================================================
 
 #include <iostream>
@@ -26,15 +22,6 @@ int main() {
 	cin >> cost;
 	double monthlyPay = cost * 0.05;
 	cout <<"your interest rate per month will be 1.5%, and your monthly payment will be "<< monthlyPay<<endl;
-
-	        /*interest = (cost * interestRatePerMonth);
-			totalInterest= totalInterest + interest;
-			remainder = monthlyPay - interest;
-			cost = cost - remainder;
-			cout<<interest<<endl;
-			cout<<totalInterest<<endl;
-			cout<<remainder<<endl;
-			cout<<cost<<endl;*/
 
 	for(int i = 0; i<=c; i++){
 	    interest = (cost * interestRatePerMonth);
